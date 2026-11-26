@@ -14,6 +14,8 @@ A stranger shares their umbrella at a bus stop, and for one block the rain behav
 
 `main.py` writes the single sentence to `/output/entry.txt` when run.
 
+Gate: one sentence, 1–200 UTF-8 characters, verified over three runs with identical output.
+
 ## Bounty
 
 Built for the make.fun bounty [Everyday Wonder, Two Days to Find the Line](https://make.fun/bounty/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3).
